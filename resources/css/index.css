@@ -27,3 +27,13 @@ h3 {
     font-family: Helvetica;
     font-weight: bold;
 }
+
+p {
+    font-family: Helvetica;
+}
+
+a {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
